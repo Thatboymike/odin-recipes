@@ -1,0 +1,33 @@
+* {
+font-family: 'Courier New', Courier, monospace;
+color: rgba(186, 137, 68, 0.971);
+background-color: rgb(255, 210, 210);
+text-align: center;
+}
+
+ul {
+   list-style: none;
+    font-weight: bold;
+    padding: 5px;
+    margin: 0px;
+}
+
+ol {
+    margin: 0 auto;
+    padding: 0;
+    padding-bottom: 40px;
+    width: 60%;
+    list-style-position: outside;
+    text-align: justify;
+  }
+  
+  ol li {
+    margin-bottom: 1rem;
+    line-height: 1.5;
+    font-size: 1rem;
+    text-align: justify;
+  }
+
+  p {
+    font-weight: 500;
+  }
